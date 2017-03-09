@@ -1,10 +1,13 @@
-i2pd-docker
-===========
+i2pd-hostbase-docker
+====================
 
 This docker file will download latest i2pd from [its Github](https://github.com/PurpleI2P/i2pd/releases/latest) and install it into a container.
 
 How to install
 =======================
+
+This version of the image is modified and is not yet on docker hub. Please
+use someone elses for now.
 
 * The easiest way to install is using Docker hub:
 

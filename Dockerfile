@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Cube <kyb.6.granei@yandex.ru>
+MAINTAINER cmotc <problemsolver@openmailbox.org>
 
 # We will need these ports to use proxies and web console
 EXPOSE 7071 9439
